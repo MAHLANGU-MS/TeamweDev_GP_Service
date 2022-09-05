@@ -1,0 +1,14 @@
+C:\Users\tapiwa\source\repos\TeamweDev_GP_Service\bin\TeamweDev_GP_Service.dll.config
+C:\Users\tapiwa\source\repos\TeamweDev_GP_Service\bin\TeamweDev_GP_Service.dll
+C:\Users\tapiwa\source\repos\TeamweDev_GP_Service\bin\TeamweDev_GP_Service.pdb
+C:\Users\tapiwa\source\repos\TeamweDev_GP_Service\obj\Debug\TeamweDev_GP_Service.csproj.AssemblyReference.cache
+C:\Users\tapiwa\source\repos\TeamweDev_GP_Service\obj\Debug\TeamweDev_GP_Service.csproj.CoreCompileInputs.cache
+C:\Users\tapiwa\source\repos\TeamweDev_GP_Service\obj\Debug\TeamweDev_GP_Service.dll
+C:\Users\tapiwa\source\repos\TeamweDev_GP_Service\obj\Debug\TeamweDev_GP_Service.pdb
+C:\Users\tapiwa\Desktop\Year_3\IFM\TeamweDev_GP_Service\bin\TeamweDev_GP_Service.dll.config
+C:\Users\tapiwa\Desktop\Year_3\IFM\TeamweDev_GP_Service\bin\TeamweDev_GP_Service.dll
+C:\Users\tapiwa\Desktop\Year_3\IFM\TeamweDev_GP_Service\bin\TeamweDev_GP_Service.pdb
+C:\Users\tapiwa\Desktop\Year_3\IFM\TeamweDev_GP_Service\obj\Debug\TeamweDev_GP_Service.csproj.AssemblyReference.cache
+C:\Users\tapiwa\Desktop\Year_3\IFM\TeamweDev_GP_Service\obj\Debug\TeamweDev_GP_Service.csproj.CoreCompileInputs.cache
+C:\Users\tapiwa\Desktop\Year_3\IFM\TeamweDev_GP_Service\obj\Debug\TeamweDev_GP_Service.dll
+C:\Users\tapiwa\Desktop\Year_3\IFM\TeamweDev_GP_Service\obj\Debug\TeamweDev_GP_Service.pdb
